@@ -6,6 +6,8 @@
 
 [Roadmap do iniciante ao avançado - Java|Dio](https://github.com/julianazanelatto/roadmap_java_repo/blob/main/README.md)
 
+[Introdução ao desenvolvimento moderno de software](https://web.dio.me/course/introducao-ao-desenvolvimento-moderno-de-software/learning/64118d38-e7a0-4e98-becd-c5e52c993e08)
+
 > "Quem nunca errou, nunca tentou algo novo!"
 
 <h2> LISTA </h2>
